@@ -11,7 +11,7 @@ export default function Home() {
           <h1 className="text-4xl md:text-5xl font-extrabold tracking-tight">Harishankar Giri</h1>
           <p className="text-2xl font-semibold text-white/90">Developing Data Engineer 🚀</p>
           <p className="text-lg leading-relaxed text-white/80 text-justify">
-              Hi there! I'm Harishankar, an enthusiastic Data Engineer in the making with hands-on experience designing and delivering end-to-end data platforms on Microsoft Azure. I enjoy building scalable pipelines and optimizing large-scale workflows using tools like Databricks, ADLS Gen2, Synapse Analytics, Azure Data Factory, and Apache Airflow. I'm skilled in Python, PySpark, and PostgreSQL, and have worked with Docker, Kafka, Hadoop, and HDFS to build efficient and reliable data engineering solutions.
+            Hey! I’m Harishankar — currently working in the NetSuite ERP space, but deeply interested in data engineering. Over the past few months, I’ve spent time learning and building end-to-end data pipelines using tools like Azure Data Factory, Databricks, Synapse, and ADLS Gen2. I love working with Python and PySpark, and have also explored tools like Apache Airflow, Kafka, and Docker in my personal projects. I may be early in my data journey, but I’m all in — constantly learning and excited to break into the DE world.
           </p>
 
           {/* Social Icons */}
