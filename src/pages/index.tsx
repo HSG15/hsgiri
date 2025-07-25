@@ -39,7 +39,7 @@ export default function Home() {
             </div>
 
             <p className="text-base sm:text-lg leading-relaxed text-white/80 text-justify">
-              Hey! I’m Harishankar — currently working in the NetSuite ERP space, but deeply interested in Data Engineering...
+               Hey! I’m Harishankar — currently working in the NetSuite ERP space, but deeply interested in Data Engineering. Over the past few months, I’ve spent time learning and building end-to-end data pipelines using tools like Azure Data Factory, Databricks, Synapse, and ADLS Gen2. I love working with Python and PySpark, and have also explored tools like Apache Airflow, Kafka, and Docker in my personal projects. I may be early in my data journey, but I’m all in — constantly learning and excited to break into the DE world.            
             </p>
 
             {/* Social Icons */}
