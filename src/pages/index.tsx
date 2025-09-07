@@ -44,16 +44,16 @@ export default function Home() {
 
             {/* Social Icons */}
             <div className="flex justify-center md:justify-start gap-6 mt-4 flex-wrap">
-              <Link href="https://www.linkedin.com/in/hsg15/" target="_blank" className="hover:scale-110 transition-transform duration-200">
+              <Link href="https://www.linkedin.com/in/hsgiri/" target="_blank" className="hover:scale-110 transition-transform duration-200">
                 <Image src="/images/linkedin.svg.webp" alt="LinkedIn" width={28} height={28} />
               </Link>
               <Link href="https://github.com/HSG15" target="_blank" className="hover:scale-110 transition-transform duration-200">
                 <Image src="/images/github.png" alt="GitHub" width={33} height={33} />
               </Link>
-              <Link href="/files/resume-cv.pdf" target="_blank" className="hover:scale-110 transition-transform duration-200">
+              <Link href="https://drive.google.com/file/d/1KQpXWYCb1CDBagwpBcwobqIwVs_g7AX5/view?usp=sharing" target="_blank" className="hover:scale-110 transition-transform duration-200">
                 <Image src="/images/download.png" alt="Download Resume" width={28} height={28} />
               </Link>
-              <Link href="https://leetcode.com/u/HarishankarGiri/" target="_blank" className="hover:scale-110 transition-transform duration-200">
+              <Link href="https://leetcode.com/u/hsgiri/" target="_blank" className="hover:scale-110 transition-transform duration-200">
                 <Image src="/images/leetcode.webp" alt="LeetCode Profile" width={30} height={30} />
               </Link>
             </div>
